@@ -18,9 +18,6 @@
   - Built upon a tutorial, but added significant features and enhancements, including:
     - New gameplay mechanics.
     - Personalized logic systems using Scriptable Objects.
-    - Improved visuals integrated from free online assets.
-- **Art Assets**:
-  - Art assets were sourced online and creatively integrated into the project to match the theme and tone of the game.
 
 ---
 
@@ -88,6 +85,6 @@ I'm currently working on transforming **Kitchen Chaos** into a multiplayer exper
 
 If you’d like to discuss this project or my journey in game development, feel free to reach out:
 
-**Email**: christian.akkary@outlook.com
-**GitHub**: https://github.com/christian123123123
-**LinkedIn**: https://www.linkedin.com/in/christian-akkary-17655b296/
+- **Email**: christian.akkary@outlook.com
+- **GitHub**: https://github.com/christian123123123
+- **LinkedIn**: https://www.linkedin.com/in/christian-akkary-17655b296/
