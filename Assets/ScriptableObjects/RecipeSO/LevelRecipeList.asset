@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ec177b518ca72540a7726215f981c20, type: 3}
+  m_Name: LevelRecipeList
+  m_EditorClassIdentifier: 
+  levelRecipes:
+  - levelIndex: 1
+    recipes:
+    - {fileID: 11400000, guid: 5848f73db7291e14fa284a479576b76b, type: 2}
+    - {fileID: 11400000, guid: 39c35472c33b31444a35e504bcb2b081, type: 2}
+    - {fileID: 11400000, guid: 252a5a91986420743a868b141dff5eb1, type: 2}
+    - {fileID: 11400000, guid: fad0700bb7de05f4e97672492f5f61f9, type: 2}
+  - levelIndex: 2
+    recipes:
+    - {fileID: 11400000, guid: 9b357481c730fde45a57f4b781c1896f, type: 2}
+    - {fileID: 11400000, guid: 81c0e201b86c009429280e0fa3028485, type: 2}
+    - {fileID: 11400000, guid: cf70c16cfd3b03448862d44d234ac6a5, type: 2}
+    - {fileID: 11400000, guid: fad0700bb7de05f4e97672492f5f61f9, type: 2}
+    - {fileID: 11400000, guid: c8e9712be6297d344884beca60a25b55, type: 2}
+  - levelIndex: 3
+    recipes:
+    - {fileID: 11400000, guid: 449cd4ca24ae649468197a11669dd951, type: 2}
+    - {fileID: 11400000, guid: 2fcd4a4dc023ef84f9aab5685b6f46d8, type: 2}
+    - {fileID: 11400000, guid: be14858b5d6cd3b40b9f5d9abf6ae463, type: 2}
+    - {fileID: 11400000, guid: fad0700bb7de05f4e97672492f5f61f9, type: 2}
+    - {fileID: 11400000, guid: c8e9712be6297d344884beca60a25b55, type: 2}
